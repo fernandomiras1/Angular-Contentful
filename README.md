@@ -10,3 +10,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 accounts.google.com
 user: megainfocordoba@gmail.com
 pass: hijodeputa36354931
+
+
+## Angular And Contentful - Content Management For Single-Page Web Apps
+
+Video en YouTube_: `https://www.youtube.com/watch?v=KhmjLjvlmyQ`
